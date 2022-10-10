@@ -1,0 +1,4 @@
+{
+    "storage":"./bin/databaseShop.db",
+	"serverPort": 3400 
+}
